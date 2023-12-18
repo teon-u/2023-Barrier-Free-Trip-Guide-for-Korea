@@ -3,10 +3,10 @@
 
 ![시각화_부산장애인여행협회](https://github.com/teon-u/Barrier-Free-Trip-Guide-for-Korea/assets/89633138/2145ef2f-0855-4f19-8ae5-b221256be5f4)
 
-Selenium 을 활용한 "대한민국 구석구석 플랫폼" 크롤러 : bf_crawler_v2.0py
-
 Goodle Looker Studio Visualization Link  ↘
 
-"https://lookerstudio.google.com/embed/reporting/53b82d46-658e-4ef4-b406-256f0fb314a6/page/ql4WD"
+https://lookerstudio.google.com/embed/reporting/53b82d46-658e-4ef4-b406-256f0fb314a6/page/ql4WD
+
+Selenium 을 활용한 "대한민국 구석구석 플랫폼" 크롤러 : bf_crawler_v2.0py
 
 ![사례집_부산장애인여행협회](https://github.com/teon-u/Barrier-Free-Trip-Guide-for-Korea/assets/89633138/856afeb6-3748-470d-8bf5-face52573cd0)
